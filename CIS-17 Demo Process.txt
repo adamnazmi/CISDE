@@ -4,6 +4,8 @@ Run 1st demo 24 July 2012 11:30 AM (Fail)
 
 Run 2nd demo 24 July 2012 11:38 AM (Fail)
 
-Run 3nd demo 24 July 2012 11:51 AM (Fail)
+Run 3th demo 24 July 2012 11:51 AM (Fail)
 
-Run 3nd demo 24 July 2012 11:51 AM (Fail)
+Run 4th demo 24 July 2012 12.00 PM (Fail)
+
+Run 5th demo 24 July 2012 12:04 PM (Pass)
