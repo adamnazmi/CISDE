@@ -1,13 +1,15 @@
-Create File 24 July 2012 11:26 AM (Pass)
+Create File 24 July 2012 11:26 AM 
 
-Run 1st demo 24 July 2012 11:30 AM (Fail)
+Run 1st demo 24 July 2012 11:30 AM 
 
-Run 2nd demo 24 July 2012 11:38 AM (Fail)
+Run 2nd demo 24 July 2012 11:38 AM 
 
-Run 3th demo 24 July 2012 11:51 AM (Fail)
+Run 3th demo 24 July 2012 11:51 AM 
 
-Run 4th demo 24 July 2012 12.00 PM (Fail)
+Run 4th demo 24 July 2012 12.00 PM 
 
-Run 5th demo 24 July 2012 12:04 PM (Pass)
+Run 5th demo 24 July 2012 12:04 PM 
 
 Run 6th demo 25 July 2012 10:28 AM
+
+Run 7th demo 25 July 2012 10:44 AM
